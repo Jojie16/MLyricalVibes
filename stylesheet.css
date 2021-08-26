@@ -3,6 +3,7 @@ body{
     margin: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
+    text-align: center;
 }
 h4{color: rgb(148, 105, 3);
 text-align: center;
@@ -54,6 +55,7 @@ a:hover {
     border-radius: 15px;
     border-style: solid;
     margin-bottom: 10px;
+    border: 8px solid;
     border-color: rgb(75, 241, 9);
     padding: 25px;
     
@@ -67,6 +69,7 @@ a:hover {
     margin-right: 75px;
     padding: 27.5px;
     border-style: solid;
+    border: 8px solid;
     border-color: rgb(75, 241, 9);
     border-radius: 15px;
     float: right;
@@ -84,6 +87,7 @@ a:hover {
     border-radius: 15px;
     border-style: solid;
     margin-bottom: 10px;
+    border: 8px solid;
     border-color: rgb(75, 241, 9);
     padding: 25px;
     
@@ -97,6 +101,7 @@ a:hover {
     margin-right: 75px;
     padding: 20.5px;
     border-style: solid;
+    border: 8px solid;
     border-color: rgb(75, 241, 9);
     height: 469px;
     width: 331.5px;
@@ -114,6 +119,7 @@ a:hover {
     border-radius: 15px;
     border-style: solid;
     margin-bottom: 10px;
+    border: 8px solid;
     border-color: rgb(75, 241, 9);
     padding: 25px;
     
@@ -127,6 +133,35 @@ a:hover {
     margin-right: 75px;
     padding: 20.5px;
     border-style: solid;
+    border: 8px solid;
+    border-color: rgb(75, 241, 9);
+    height: 469px;
+    width: 331.5px;
+    border-radius: 15px;
+    float: right;
+}
+
+.vid10 {
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    margin-right: 520px;
+    margin-left: 80px;
+    border-radius: 15px;
+    border-style: solid;
+    margin-bottom: 10px;
+    border: 8px solid;
+    border-color: rgb(75, 241, 9);
+    padding: 25px;
+    
+}
+
+
+.vid9 {
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-right: 75px;
+    padding: 20.5px;
+    border: 8px solid;
     border-color: rgb(75, 241, 9);
     height: 469px;
     width: 331.5px;
